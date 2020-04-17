@@ -1,0 +1,18 @@
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("Image/Cover2.jpg");
+  opacity: 20%;
+
+  /* Full height */
+  height: 150%; 
+
+  /* Center and scale the image nicely */
+  background-position: 50% 15%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
